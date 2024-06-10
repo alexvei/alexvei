@@ -1,7 +1,4 @@
 # Alexvei
-Engineering and Maths Student:
-- 🔭 I’m currently working on the CS50x course by Harvard University
-- 🌱 I’m currently learning C
 - 📫 How to reach me: vasilalexpanta@gmail.com
 
 ### Languages and Tools
